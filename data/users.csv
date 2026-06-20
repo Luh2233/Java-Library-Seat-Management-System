@@ -1,0 +1,7 @@
+alice,Alice,123,false,95,false
+bob,Bob,123,false,70,false
+admin,Admin,admin,true,100,false
+charlie,Charlie,123,false,70,false
+diana,Diana,123,false,50,true
+eve,Eve,123,false,55,true
+frank,Frank,123,false,65,false

@@ -1,0 +1,1 @@
+程序入口在src/main/Main里，即直接运行主函数。信息储存在data文件夹里，其中reservations.csv储存的是预约信息，seats.csv储存的是座位信息，users.csv储存了用户id和password，id是小写的那个，为方便测试，这三个文件均可手动更改。
